@@ -1,0 +1,20 @@
+# .NET
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+*.user
+.vs/
+*.suo
+*.log
+
+# EF
+Migrations/*.db
+*.db
+
+# IDE Rider
+.idea/
+*.DotSettings.user
+
+# local dev secrets
+appsettings.Development.json
